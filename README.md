@@ -31,3 +31,17 @@ When task is submitted it takes notes of the number of issues closed at the time
 When viewing submission, it displays the issues after submission description but here one isn’t able to edit the state
 ### 4. Edit Submission
 On the edit submission page, one can edit the state of the issue
+
+## General (Profile page update)
+Made it so that whenever the profile photo wants to be updated it checks if the inputed github username exists
+
+### Repository
+-> https://github.com/skye8-tech/ims_web.git
+
+### Branches
+-> { benjamin_update } for Awankem Benjamin
+-> { resource } for Cheneba Metuge
+  Both of which are updated with task implementations
+
+### Pull Request Link
+-> 
